@@ -1,0 +1,15 @@
+html {
+  background-color: rgb(240, 234, 210);
+}
+h1,
+p {
+  color: #3a86ff;
+}
+h2 {
+  color: rgba(255, 0, 110, 50%);
+  border-bottom: 5px solid rgba(255, 0, 110, 50%);
+  display: inline-block;
+}
+tr {
+  text-align: center;
+}
